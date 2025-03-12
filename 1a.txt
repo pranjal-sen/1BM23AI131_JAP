@@ -1,0 +1,11 @@
+Enter name :abc
+Enter age :13
+Enter Activation state :True
+Enter duration in months :6
+Name: abc
+Age: 13
+Membership Status: true
+Duration: 6
+Fee: 300.0
+
+Process finished with exit code 0
