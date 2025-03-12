@@ -65,25 +65,3 @@ public class program_2a {
     }
 
 }
-
-/*
-Autoboxed Values:
-Integer: 10
-Byte: 127
-Float: 3.14
-Character: a
-Short: 127
-Long: 10000
-Boolean: true
-Double: 1.23456789
-
-Unboxed Values:
-int: 10
-byte: 127
-float: 3.14
-char: a
-short: 127
-long: 10000
-boolean: true
-double: 1.23456789
- */
