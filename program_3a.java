@@ -1,4 +1,4 @@
-public class string_functions {
+public class program_3a {
     public static boolean compareStrings(String str1,String str2){
         return str1.equals(str2);
     }
