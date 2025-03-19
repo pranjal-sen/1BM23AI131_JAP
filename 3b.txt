@@ -1,0 +1,10 @@
+Capacity of StringBuffer object s1: 16
+Capacity of StringBuffer object s2: 21
+enter a string: 
+abcd
+reversed string in upper case: DCBA
+enter a string to append: 
+efgh
+String after appending: dcbaefgh
+
+Process finished with exit code 0
