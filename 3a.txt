@@ -1,0 +1,14 @@
+String 1 :hello
+String 2 :hello
+original String :original string
+
+comparison of given Strings 1 and String 2: 
+true
+
+copy of original String: 
+original string
+
+concatenation of Strings
+hellohello
+
+Process finished with exit code 0
