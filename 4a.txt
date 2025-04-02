@@ -1,0 +1,3 @@
+Is Monday a workday? true
+
+Process finished with exit code 0
