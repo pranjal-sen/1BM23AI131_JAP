@@ -1,0 +1,21 @@
+Enter exam scores:
+Enter scores of student 1:
+78
+student 1 marks is : 78
+Enter scores of student 2:
+92
+student 2 marks is : 92
+Enter scores of student 3:
+68
+student 3 marks is : 68
+Enter scores of student 4:
+74
+student 4 marks is : 74
+Enter scores of student 5:
+87
+student 5 marks is : 87
+Sum of scores : 399
+Average of scores : 79.0
+Highest score : 92
+
+Process finished with exit code 0
