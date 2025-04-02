@@ -5,7 +5,7 @@ class Student{
 public class program_4b {
     public static void main(String args[]){
         final int NUM_STUDENTS=5;
-        Student  obj[] = new Student[NUM_STUDENTS];\
+        Student  obj[] = new Student[NUM_STUDENTS];
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter exam scores:");
         for (int i=0;i<NUM_STUDENTS;i++){
