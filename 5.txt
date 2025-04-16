@@ -1,0 +1,11 @@
+Inventory:
+Name: Laptop, Price: 40000.0, Category: Electronics
+Name: T-shirt, Price: 550.0, Category: Clothing
+Name: Book, Price: 920.0, Category: Books
+Inventory:
+Name: Laptop, Price: 40000.0, Category: Electronics
+Name: T-shirt, Price: 550.0, Category: Clothing
+Inventory:
+Name: T-shirt, Price: 550.0, Category: Clothing
+
+Process finished with exit code 0
