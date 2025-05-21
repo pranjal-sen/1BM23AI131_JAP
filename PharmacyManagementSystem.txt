@@ -1,0 +1,14 @@
+OUTPUT
+Inventory
+1 | Crocin | 100 | 2.5
+2 | Calpol | 50 | 3.0
+3 | Crickmol | 200 | 1.0
+Inventory
+1 | Crocin | 90 | 2.0
+2 | Calpol | 50 | 3.0
+3 | Crickmol | 200 | 1.0
+Searching for item with id: 2
+Item found: Calpol
+Inventory
+1 | Crocin | 90 | 2.0
+3 | Crickmol | 200 | 1.0
