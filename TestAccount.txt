@@ -1,0 +1,7 @@
+OUTPUT
+Balance: 1000.0
+Balance: 800.0
+Balance: 700.0
+Error: Insufficient Balance
+Balance: 700.0
+
