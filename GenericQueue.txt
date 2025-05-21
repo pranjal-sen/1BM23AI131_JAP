@@ -1,0 +1,8 @@
+OUTPUT
+Elements in queue are:
+10
+20
+30
+null
+Dequeued element: 10
+Queue size: 3
