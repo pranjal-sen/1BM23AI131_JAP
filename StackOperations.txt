@@ -1,0 +1,31 @@
+/* Output
+Fixed stack operations
+Stack size: 0
+Stack size: 1
+Stack size: 2
+Stack size: 3
+Popped element: 30
+Stack size: 2
+Popped element: 20
+Stack size: 1
+Is empty: false
+Stack size: 1
+Popped element: 10
+Stack size: 0
+Is empty: true
+
+Dynamic stack operations
+Stack size: 0
+Stack size: 1
+Stack size: 2
+Stack size: 3
+Popped element: 30
+Stack size: 2
+Popped element: 20
+Stack size: 1
+Is empty: false
+Stack size: 1
+Popped element: 10
+Stack size: 0
+Is empty: true
+*/
